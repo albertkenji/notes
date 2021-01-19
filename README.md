@@ -1,14 +1,18 @@
 # Notes 
 
-## YEAR  
+## Year 
 
 - [2020](2020.md)
 
-## TRACK
+## Philosophy
 
-[Goodreads](https://www.goodreads.com/albert_kenji) - Books    
-[Letterboxd](https://letterboxd.com/albert_kenji/) - Movies  
+- [Ideas/Quotes](philosophy/)
 
+## Track
+
+- [Goodreads](https://www.goodreads.com/albert_kenji) - Books    
+- [Letterboxd](https://letterboxd.com/albert_kenji/) - Movies  
+- Steam - Games  
 
 ## 2021
 
