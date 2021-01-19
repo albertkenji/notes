@@ -1,7 +1,14 @@
 # Notes 
 
-[Goodreads](https://www.goodreads.com/albert_kenji)
-[Letterboxd](https://letterboxd.com/albert_kenji/)
+## YEAR  
+
+- [2020](2020.md)
+
+## TRACK
+
+[Goodreads](https://www.goodreads.com/albert_kenji) - Books    
+[Letterboxd](https://letterboxd.com/albert_kenji/) - Movies  
+
 
 ## 2021
 
