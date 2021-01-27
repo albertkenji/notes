@@ -20,9 +20,11 @@
 
 **Books**:
 
-- How Linux Works: What Every Superuser Should Know - Brian Ward 
+- How Linux Works: What Every Superuser Should Know - Brian Ward
 - Lives of Stoics - Ryan Holiday
 - Musashi - Eiji Yoshikawa
+- Shinsetsu - O poder da gentileza - Clóvis de Barros
+- The Linux Command Line - William Shotts
 
 **Movies/Series**:
 
@@ -30,6 +32,7 @@
 - #Alive
 - Enter the Fat Dragon
 - Rose Island
+- Gurazeni S02
 
 **Mangas/HQ**
 
