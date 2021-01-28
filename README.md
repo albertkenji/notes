@@ -8,6 +8,14 @@
 
 - [Ideas/Quotes](philosophy/)
 
+## Technology
+
+- [Study/Learn](/technology):
+	* Vim/Nvim
+	* Command Shell/Shell Scripting
+	* Dotfiles
+	* Terminal Multiplex
+
 ## Track
 
 - [Goodreads](https://www.goodreads.com/albert_kenji) - Books    
@@ -20,11 +28,11 @@
 
 **Books**:
 
-- How Linux Works: What Every Superuser Should Know - Brian Ward
-- Lives of Stoics - Ryan Holiday
-- Musashi - Eiji Yoshikawa
-- Shinsetsu - O poder da gentileza - Clóvis de Barros
-- The Linux Command Line - William Shotts
+- How Linux Works: What Every Superuser Should Know - *Brian Ward*
+- Lives of Stoics - *Ryan Holiday*
+- Musashi - *Eiji Yoshikawa*
+- Shinsetsu - O poder da gentileza - *Clóvis de Barros*
+- The Linux Command Line - *William Shotts*
 
 **Movies/Series**:
 
@@ -36,8 +44,8 @@
 
 **Mangas/HQ**
 
-- Jujustu Kaisen Vol.01-14
+- Jujustu Kaisen Vol.01-14 - *Gege Akutami*
 
 **Games**
 
-
+- Chess
