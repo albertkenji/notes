@@ -1,6 +1,6 @@
 # Notes 
 
-## Year 
+## Archieve 
 
 - [2020](2020.md)
 
@@ -11,10 +11,11 @@
 ## Technology
 
 - [Study/Learn](/technology):
-	* Vim/Nvim
-	* Command Shell/Shell Scripting
-	* Dotfiles
-	* Terminal Multiplex
+	* Vim/Nvim (January)
+	* Command Shell/Shell Scripting (January)
+	* Dotfiles (January)
+	* Terminal Multiplex (January)
+	* Regex (February)
 
 ## Track
 
@@ -33,6 +34,8 @@
 - Musashi - *Eiji Yoshikawa*
 - Shinsetsu - O poder da gentileza - *Clóvis de Barros*
 - The Linux Command Line - *William Shotts*
+- Happy Money: The Science for smarter spending - *Elizabeth Dunn and Michael Norton*
+- Behavioural Economics Saved my Dog: Life Advice for the Imperfect Human - *Dan Ariely*
 
 **Movies/Series**:
 
@@ -49,3 +52,19 @@
 **Games**
 
 - Chess
+
+### February
+
+**Books**
+
+- 
+
+**Movies/Series**
+
+-
+
+**Mangas/HQ**
+
+- 
+
+**Games**
