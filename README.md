@@ -1,6 +1,6 @@
 # Notes 
 
-## Archieve 
+## Archive 
 
 - [2020](2020.md)
 
@@ -9,6 +9,8 @@
 - [Ideas/Quotes](philosophy/)
 
 ## Technology
+
+- [Command Line Apps](/technology/command-line.md)
 
 - [Study/Learn](/technology):
 	* Vim/Nvim (January)
