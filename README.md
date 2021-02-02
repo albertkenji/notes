@@ -31,8 +31,8 @@
 
 **Books**:
 
-- How Linux Works: What Every Superuser Should Know - *Brian Ward*
-- Lives of Stoics - *Ryan Holiday*
+- [How Linux Works: What Every Superuser Should Know](https://www.amazon.com/How-Linux-Works-Brian-Ward-ebook/dp/B07X7S1JMB) - *Brian Ward*
+- [Lives of Stoics](https://www.amazon.com/Lives-Stoics-Living-Marcus-Aurelius/dp/052554187X) - *Ryan Holiday*
 - Musashi - *Eiji Yoshikawa*
 - Shinsetsu - O poder da gentileza - *Clóvis de Barros*
 - The Linux Command Line - *William Shotts*
