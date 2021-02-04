@@ -11,14 +11,13 @@
 ## Technology
 
 - [Command Line Apps](/technology/command-line.md)
-- [Tmux - Basic](/technology/tmux.md)
 
 
 - [Study/Learn](/technology):
 	* Vim/Nvim (January)
 	* Command Shell/Shell Scripting (January)
 	* Dotfiles (January)
-	* Terminal Multiplexer - Tmux (January)
+	* [Tmux - Terminal Multiplexer](/technology/tmux.md) (January)
 	* Regex (February)
 
 ## Track
