@@ -11,12 +11,14 @@
 ## Technology
 
 - [Command Line Apps](/technology/command-line.md)
+- [Tmux - Basic](/technology/tmux.md)
+
 
 - [Study/Learn](/technology):
 	* Vim/Nvim (January)
 	* Command Shell/Shell Scripting (January)
 	* Dotfiles (January)
-	* Terminal Multiplex (January)
+	* Terminal Multiplexer - Tmux (January)
 	* Regex (February)
 
 ## Track
@@ -37,7 +39,7 @@
 - [Shinsetsu - O poder da gentileza](https://www.goodreads.com/book/show/40524793-shinsetsu?ac=1&from_search=true&qid=oQLQTribLK&rank=1) - *Clóvis de Barros* - 3/5
 - [The Linux Command Line](https://www.goodreads.com/book/show/11724436-the-linux-command-line?from_search=true&from_srp=true&qid=ppnXAyHeem&rank=1) - *William Shotts* - 4/5
 - [Happy Money: The Science for smarter spending](https://www.goodreads.com/book/show/15803098-happy-money?ac=1&from_search=true&qid=eBM5h27Z3E&rank=1) - *Elizabeth Dunn and Michael Norton* - 3/5
-- [Behavioural Economics Saved my Dog: Life Advice for the Imperfect Human](https://www.goodreads.com/book/show/27234158-behavioural-economics-saved-my-dog?from_search=true&from_srp=true&qid=nTj9UWbFV9&rank=1) - *Dan Ariely*
+- [Behavioural Economics Saved my Dog: Life Advice for the Imperfect Human](https://www.goodreads.com/book/show/27234158-behavioural-economics-saved-my-dog?from_search=true&from_srp=true&qid=nTj9UWbFV9&rank=1) - *Dan Ariely* - 4/5
 
 **Movies/Series**:
 
