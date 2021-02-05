@@ -40,6 +40,10 @@ tmux kill-session -t <name of session>
 * prefix + & - kill window (exit)
 * prefix + 0 .. 9 - moves to next window
 
+## Tips
+
+- Defining an easier prefix: Setting the prefix from C-b to C-a
+- [Minimum tmux config](https://www.dericpang.com/blog/a-minimum-viable-tmux-config/)
 ## Plugin Install
 
 - [Tmux Plugin Manager](https://github.com/tmux-plugins/tpm)
@@ -52,3 +56,8 @@ tmux kill-session -t <name of session>
 
 * prefix + <ctrl+s> - save session
 * prefix + <ctrl+r> - restore session
+
+## Managing configuration with tmuxinator
+
+> You define window layouts and commands in a simple YAML format, and them launch them with the tmuxinator command. Unlike the other approaches, tmuxinator offers acentral location for your configurations and a much easier dialect for creating complex layouts.  
+
