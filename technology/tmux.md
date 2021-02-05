@@ -40,3 +40,15 @@ tmux kill-session -t <name of session>
 * prefix + & - kill window (exit)
 * prefix + 0 .. 9 - moves to next window
 
+## Plugin Install
+
+- [Tmux Plugin Manager](https://github.com/tmux-plugins/tpm)
+
+* prefix + I
+
+## Manage and restore tmux sessions: Persists tmux environment across system restarts.
+
+- [Plugin Tmux Resurrect](https://github.com/tmux-plugins/tmux-resurrect)
+
+* prefix + <ctrl+s> - save session
+* prefix + <ctrl+r> - restore session
