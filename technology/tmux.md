@@ -61,7 +61,9 @@ tmux kill-session -t <name of session>
 
 > You define window layouts and commands in a simple YAML format, and them launch them with the tmuxinator command. Unlike the other approaches, tmuxinator offers acentral location for your configurations and a much easier dialect for creating complex layouts.  
 
+## Config
 
+- Minimal config: https://www.dericpang.com/blog/a-minimum-viable-tmux-config/
 
 ## Alias
 
