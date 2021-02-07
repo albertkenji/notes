@@ -5,6 +5,8 @@
 * [Trash](https://github.com/andreafrancia/trash-cli) - trash-cli
 * [aria2](https://github.com/tatsuhiro-t/aria2) - download files
 * [vifm](https://vifm.info/) - file manager
+* xclip - clipboard
+
 
 ## Media
 
