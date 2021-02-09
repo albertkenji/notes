@@ -2,7 +2,7 @@
 
 * Tools -> Global Option -> Code -> Editing -> Keybinding -> Vim
 
-:help - Display vim keyboard shortcuts
+* :help - Display vim keyboard shortcuts
 
 - Common vim features: motions, copy/paste, search
 

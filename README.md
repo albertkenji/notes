@@ -20,6 +20,7 @@
 	* [Tmux - Terminal Multiplexer](/technology/tmux.md) (January)
 	* Regex (February)
 	* [RStudio + Vim Mode](/technology/rstudio.md) (February)
+	* Personal Website - Blogdown + RMarkdown (February)
 
 ## Track
 
