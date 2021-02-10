@@ -6,7 +6,7 @@
 * [aria2](https://github.com/tatsuhiro-t/aria2) - download files
 * [vifm](https://vifm.info/) - file manager
 * xclip - clipboard
-
+* locate - find file
 
 ## Media
 
@@ -23,5 +23,15 @@
 
 * [Vim](https://github.com/vim/vim)
 * [Neovim](https://github.com/neovim/neovim)
+
+## Shortcuts
+
+* <ctrl + a> jump first caracter
+* <ctrl + e> jump end of line
+* <ctrl + l> clear
+* <ctrl + r> search command history
+* <ctrl + u> remove command typing
+
+## Basic Commands
 
 
