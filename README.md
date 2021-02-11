@@ -11,8 +11,7 @@
 ## Technology
 
 - [Command Line Apps](/technology/command-line.md)
-
-
+- [Takahashi Method](/technology/takahashi-method.md) - minimal slides
 - [Study/Learn](/technology):
 	* Vim/Nvim (January)
 	* Command Shell/Shell Scripting (January)
