@@ -19,8 +19,8 @@
 	* [Tmux - Terminal Multiplexer](/technology/tmux.md) (January)
 	* Regex (February)
 	* [RStudio + Vim Mode](/technology/rstudio.md) (February)
-	* [Personal Website - Blogdown + RMarkdown](rmarkdown.md) (February)
-	* [Dissertation, Paper, Thesis - RMarkdown](rmarkdown.md) (February)
+	* [Personal Website - Blogdown + RMarkdown](technology/rmarkdown.md) (February)
+	* [Dissertation, Paper, Thesis - RMarkdown](technology/rmarkdown.md) (February)
 
 ## Track
 
@@ -64,16 +64,23 @@
 
 - [How to travel with a salmon and other essays](https://www.amazon.com.br/How-Travel-Salmon-Other-Essays/dp/015600125X) - *Umberto Eco* - 3/5 
 - [Tmux 2 - Productive Mouse Free Development](https://www.amazon.com.br/tmux-Productive-Mouse-Free-Development-English-ebook/dp/B01N9HBR3D) - *Brian P. Hogan* - 3/5
-- 
+- [Tecnodiversidade](https://www.ubueditora.com.br/tecnodiversidade.html) - *Yuk Hui* - 4/5 
  
- 
- 
+
 **Movies/Series**
 
 -
 
 **Mangas/HQ**
 
-- 
+- Mashle: Magic and Muscles - cap. 001 - 046 - *Hajime Komoto*
+- 灼熱のニライカナイ- vol. 01 - *Ryuhei Tamura*
+- Me & Roboco - vol. 01 - *Shuhei Miyazaki*
+- 高校生家族 - vol. 01 - *Ryo Nakama*
+- サカモトデイズ - cap. 001 - 008 - *Yuto Suzuki*
+- 逃げ上手の若君 - cap. 001 - 004 - *Yusei Matsui*
+- i tell c - cap. 001 - 002 - *Kazusa Inaoka*
+- クーロンズ・ボール・パレード - cap. 001 - *Mikiyasu Kamada/Ashibi Fukui*
+- Witch Watch - cap. 001 - 002 - *Kenta Shinohara*
 
-**Games**
+
