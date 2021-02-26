@@ -65,7 +65,6 @@
 - [How to travel with a salmon and other essays](https://www.amazon.com.br/How-Travel-Salmon-Other-Essays/dp/015600125X) - *Umberto Eco* - 3/5 
 - [Tmux 2 - Productive Mouse Free Development](https://www.amazon.com.br/tmux-Productive-Mouse-Free-Development-English-ebook/dp/B01N9HBR3D) - *Brian P. Hogan* - 3/5
 - [Tecnodiversidade](https://www.ubueditora.com.br/tecnodiversidade.html) - *Yuk Hui* - 4/5 
- 
 
 **Movies/Series**
 
@@ -82,5 +81,10 @@
 - i tell c - cap. 001 - 002 - *Kazusa Inaoka*
 - クーロンズ・ボール・パレード - cap. 001 - *Mikiyasu Kamada/Ashibi Fukui*
 - Witch Watch - cap. 001 - 002 - *Kenta Shinohara*
+- Dr. Stone - vol 01 - 05 - *Boichi/Riichiro Inagaki*
+- 破壊神マグちゃん vol 01 - 02 - *Kei Kamiki*
+
+### March
+
 
 
