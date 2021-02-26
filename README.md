@@ -22,6 +22,10 @@
 	* [Personal Website - Blogdown + RMarkdown](technology/rmarkdown.md) (February)
 	* [Dissertation, Paper, Thesis - RMarkdown](technology/rmarkdown.md) (February)
 
+## Language
+
+- [Japanese](/japanese/language.md)
+
 ## Track
 
 - [Goodreads](https://www.goodreads.com/albert_kenji) - Books    
