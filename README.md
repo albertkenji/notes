@@ -72,7 +72,7 @@
 
 **Movies/Series**
 
--
+- Japanese Youtube
 
 **Mangas/HQ**
 
@@ -90,5 +90,14 @@
 
 ### March
 
+Books
+
+- Kaizen: Lean thinking to improve your mindset and increase personal productivity - *Sosuke Takahashi* - 2.5/5
+
+Mangas/HQ
+
+- Chainsaw Man - vol 01 - 11 - *Tatsuki Fujimoto*
+
+Movies/Series
 
 
