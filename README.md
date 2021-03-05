@@ -21,6 +21,7 @@
 	* [RStudio + Vim Mode](/technology/rstudio.md) (February)
 	* [Personal Website - Blogdown + RMarkdown](technology/rmarkdown.md) (February)
 	* [Dissertation, Paper, Thesis - RMarkdown](technology/rmarkdown.md) (February)
+	* [ffmpeg - audio/video command line edit](technology/ffmpeg.md) (March)
 
 ## Language
 
