@@ -27,6 +27,11 @@
 
 - [Japanese](/japanese/language.md)
 
+## Chess
+
+- [Basic tatics](/chess/tatics.md)
+- Blitz: 10 min
+
 ## Track
 
 - [Goodreads](https://www.goodreads.com/albert_kenji) - Books    
@@ -94,6 +99,9 @@
 Books
 
 - Kaizen: Lean thinking to improve your mindset and increase personal productivity - *Sosuke Takahashi* - 2.5/5
+- One small step can change your life - *Robert Maurer* - 3.0/5
+- A arte de conhecer a si mesmo - *Arthur Schopenhauer* - 3.0/5
+- Schopenhauer: A very short introduction - *Christopher Janaway* - 3.0/5
 
 Mangas/HQ
 
