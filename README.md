@@ -96,17 +96,24 @@
 
 ### March
 
-Books
+**Books**
 
 - Kaizen: Lean thinking to improve your mindset and increase personal productivity - *Sosuke Takahashi* - 2.5/5
 - One small step can change your life - *Robert Maurer* - 3.0/5
 - A arte de conhecer a si mesmo - *Arthur Schopenhauer* - 3.0/5
 - Schopenhauer: A very short introduction - *Christopher Janaway* - 3.0/5
+- Schopenhauer em 90 minutos - *Paul Strathern* - 2.5/5
+- Sobre a vontade da natureza - *Arthur Schopenhauer* - 3.5/5
+- Schopenhauer - *Jair Barbosa* - 3.0/5
 
-Mangas/HQ
+**Mangas/HQ**
 
 - Chainsaw Man - vol 01 - 11 - *Tatsuki Fujimoto*
 
-Movies/Series
+**Movies/Series**
+
+- Ore no ie no hanashi
+
+### April
 
 
