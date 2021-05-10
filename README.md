@@ -30,7 +30,8 @@
 ## Chess
 
 - [Basic tatics](/chess/tatics.md)
-- Blitz: 10 min
+- Rapid: 10/15 min
+- Blitz: 5 min
 
 ## Track
 
@@ -115,5 +116,32 @@
 - Ore no ie no hanashi
 
 ### April
+
+**Books**
+
+- Behave - *Robert Sapolsky*
+- The Classical Music Book: Big ideas simply explained
+
+**Mangas/HQ**
+
+- Koukou no hito
+
+**Movies/Series**
+
+- Vincenzo
+- Super Cub
+- Mashiro no Oto
+
+**Games**
+
+- Pokémon SoulSilver
+
+### May
+
+**Books**
+
+**Mangas/HQ**
+
+**Movies/Series**
 
 
